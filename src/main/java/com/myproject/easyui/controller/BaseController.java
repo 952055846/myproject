@@ -8,7 +8,11 @@ import org.apache.log4j.Logger;
 
 import com.alibaba.fastjson.JSON;
 import com.myproject.easyui.util.ExceptionUtil;
-
+/**
+ * 張冬sb
+ * @author Administrator
+ *
+ */
 public class BaseController {
 	private static final Logger logger = Logger.getLogger(BaseController.class);
 
